@@ -64,4 +64,8 @@ Edit the `ZONES` array in `BodyCleanPanel.tsx` to change:
 
 ## License
 
-MIT
+[AGPL-3.0](LICENSE) (since 2026-08-16; earlier versions were MIT)
+
+If you use this code you must open-source your own; modifications must credit the
+source. **Running it as a network service counts as distribution too** — no binary
+shipping required to trigger the copyleft.
